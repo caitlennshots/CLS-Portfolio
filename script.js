@@ -146,7 +146,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
 
     "project-9": {
-      title: "Creative Photo Editing",
+      title: "SolarMax Marketing Materials",
       category: "Marketing & Advertising",
       description:
         "A collection of professional photo editing and retouching projects for roofing, solar, and HVAC businesses, including image enhancement, composites, and visual storytelling.",
