@@ -167,6 +167,18 @@ document.addEventListener("DOMContentLoaded", () => {
         type: "Marketing Campaign",
         image: "ridgemaxroofing.JPEG",
         link: "ridgemaxroofing.JPEG"
+    },
+    
+    "project-11": {
+      title: "Nature’s Lens Art Project",
+      category: "Web Development",
+      description:
+        "A responsive React web design project showcasing photography art, with a focus on layout, navigation, and visual presentation.",
+      role: "Front-End Developer",
+      tools: "React, JavaScript, CSS",
+      type: "Web Design Project",
+      image: "NaturesLensArtAd.png",
+      link: "https://caitlennshots.github.io/Nature-s-Lens-Art-Gallery/index.html"
     }
   };
 
